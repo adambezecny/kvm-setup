@@ -12,7 +12,7 @@ https://www.dell.com/support/contents/en-us/article/product-support/self-support
 
 * External Monitor with KVM support
 * DELL docking station
-* Perosnal DELL laptop
+* Personal DELL laptop
 * RBCZ Mac Pro laptop
 * Betsys mac Pro laptop
 * Wireless Keyboard
@@ -27,7 +27,7 @@ https://www.dell.com/support/contents/en-us/article/product-support/self-support
 
 ### Besys Mac
 
-* Connected ouver USB-C Thunderbolt cable to external monitor
+* Connected over USB-C Thunderbolt cable to external monitor
   * delivers all in one - power, dispaly data from monitor, data from keyboard and mouse #1
 
 ### RBCZ Mac
