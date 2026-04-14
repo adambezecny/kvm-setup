@@ -45,5 +45,5 @@ https://www.dell.com/support/contents/en-us/article/product-support/self-support
 * when working with DELL laptop keyboard must be switched into mode 3 (bluetooth) since keybaor USB doggle is plugged into monitor for KVM setup of Macs
 
 
-
+<img src="./kvm-setup.svg" />
 
