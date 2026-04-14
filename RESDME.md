@@ -1,5 +1,13 @@
 # KVM setup
 
+## Official DELL doc
+
+https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/monitor-screen-video/kvm-setup-guide-dell-monitors
+
+
+<img src="./image.png" />
+
+
 ## Components
 
 * External Monitor with KVM support
